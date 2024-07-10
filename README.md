@@ -8,4 +8,4 @@
 
 [![Chris1984 GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1984&show_icons=true&theme=radical)](https://github.com/chris1984?tab=repositories)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chris1984&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
-[![Github Trophies[(https://github-profile-trophy.vercel.app/?username=chris1984&theme=tokyonight)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=chris1984&theme=tokyonight"/>
