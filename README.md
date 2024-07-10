@@ -7,3 +7,4 @@
 - ⚡ Fun fact: I like to find abandoned Ruby/Rails projects on Github and try to make them work again
 
 [![Chris1984 GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1984&show_icons=true&theme=radical)](https://github.com/chris1984?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chris1984&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
